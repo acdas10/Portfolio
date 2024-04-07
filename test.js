@@ -74,6 +74,12 @@
             "head" : "Application of Mathematics in Science and Engineering - Webinar",
             "place" : "Jagannath University, September 2021",
             "title" : "Effect of various shaped Al2O3 and TiO2 nanoparticles on water-based MHD nanofluid flow through convergent divergent channels."
-        }
+        },
+	"1" : {
+		"head" : "21st BMS International Mathematics Conference.",
+            "place" : "University of Dhaka, December 2019",
+            "title" : "Numerical Study on the Characteristics of some Population Models in Mathematical Biology."
+
+	}
     }
 }
